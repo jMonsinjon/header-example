@@ -1,0 +1,7 @@
+interceptor:
+  headers:
+    - header_1
+    - header_2
+  cookies:
+    - cookie_1
+    - cookie_2
